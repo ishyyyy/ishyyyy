@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Isha Sharma</h1>
 <h3 align="center">A passionate Cloud Enthusiast from India</h3>
 
-img align="right" alt="Coding" width="400" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Why-Cloud-Computing-is-Essential-to-Your-Organization.jpg"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="ishyyyy" /> </p>
 
