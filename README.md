@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Isha Sharma</h1>
 <h3 align="center">A passionate Cloud Enthusiast from India</h3>
+<img src="comp.gif" alt="coding gif">
 
 
 
