@@ -16,6 +16,7 @@
 - 📫 How to reach me : **ishuradha13@gmail.com**
 
 - ⚡ Fun fact : **I like to do drawing**
+<img src="comp.gif" alt="coding gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
