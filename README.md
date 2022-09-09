@@ -33,3 +33,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishyyyy&" alt="ishyyyy" /></p>
 <a href="https://github.com/ishyyyy/github-readme-activity-graph"><img alt="Isha Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ishyyyy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+<p align="center">
+  <img src="https://github.com/ishyyyy/ishyyyy/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
