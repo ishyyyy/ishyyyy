@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Isha Sharma</h1>
-<h3 align="center">A passionate Cloud Enthusiast from India</h3>
+<h2 align="center">A passionate Cloud Enthusiast from India</h2>
 
+
+<h3 align="center">TROPHIES</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishyyyy" alt="ishyyyy" /></a> </p>
 
