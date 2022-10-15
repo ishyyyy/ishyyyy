@@ -13,7 +13,7 @@ echo "Let's proceed!\n";
 
 <h4 align="center">🏆 TROPHIES 🏆</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishyyyy" alt="ishyyyy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishyyyy&row=1" alt="ishyyyy" /></a> </p>
 
 - 🔭 I’m currently working on : **AWS and DOCKER**
 
