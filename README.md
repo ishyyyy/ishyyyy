@@ -39,14 +39,14 @@ echo "Let's proceed!\n";
 Below is a mere glimpse of the last one year
 of my public GitHub statistics.
 <p align='center'>
-	<img src='https://github-readme-stats.vercel.app/api?username=paramsiddharth&theme=dark' alt='Statistics'>
+	<img src='https://github-readme-stats.vercel.app/api?username=ishyyyy&theme=dark' alt='Statistics'>
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ishyyyy&show_icons=true&locale=en&layout=compact" alt="ishyyyy" /></p>
+<p align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishyyyy&show_icons=true&locale=en&layout=compact" alt="ishyyyy" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishyyyy&" alt="ishyyyy" /></p>
+<p align='center' ><src="https://github-readme-streak-stats.herokuapp.com/?user=ishyyyy&" alt="ishyyyy" /></p>
 <a href="https://github.com/ishyyyy/github-readme-activity-graph"><img alt="Isha Sharma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ishyyyy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
