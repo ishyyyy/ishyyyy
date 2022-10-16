@@ -10,6 +10,10 @@
 echo "Let's proceed!\n";
 ```
 
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
+
 
 <h4 align="center">🏆 TROPHIES 🏆</h4>
 
