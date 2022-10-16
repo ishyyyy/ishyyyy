@@ -69,7 +69,7 @@ WEB DEVELOPMENT         ▒░░░░░░░░░░░░░░░░░�
 | --------------- | --------------- | --------------- | ------------- |
 | **Languages(programming)** | JAVA | JS, C, C++ | Python |
 | **Frameworks/Platforms** | AWS,Docker| VS Code , Git | GCP |
-| **I can't club them into one** | Cloud Computing | Parallel Computing, Internet of Things | AI |
+| **Major Field** | Cloud Computing | Parallel Computing, Internet of Things | AI |
 | **Languages(human)** | Hindi | English | Latin  |
 | **Other interests** | Games | History | Digital Privacy |
 
