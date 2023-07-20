@@ -23,7 +23,7 @@ echo "Let's proceed!\n";
 
 - 🌱 I’m currently learning : **Data Structures and Algorithm**
 
-- 👨‍💻 All of my projects are available at : [https://www.linkedin.com/in/isha-sharma-8b56981b6/](https://www.linkedin.com/in/isha-sharma-8b56981b6/)
+
 
 - 💬 Ask me about : **Cloud Computing**
 
